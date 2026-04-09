@@ -22,6 +22,12 @@
 	"observability": {
 		"enabled": true,
 	},
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "b10e75c80e624d128542ca53567f7c45",
+		},
+	],
 	// "worker_loaders": [
 	// 	{
 	// 		"binding": "LOADER",
